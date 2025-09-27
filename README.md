@@ -1,6 +1,6 @@
 # 📊 Probability and Statistics Course
 
-This repository contains Jupyter notebooks for six computer assignments (CA1 to CA6) from a Probability and Statistics course, implemented using R via rpy2. The assignments cover probability definitions, conditional probability, distributions, normal distribution, beta estimation, covariance, correlation, and sampling with simulations.
+This repository contains Jupyter notebooks for six computer assignments (CA1 to CA6) from the Probability and Statistics course, implemented using R. The assignments cover probability definitions, conditional probability, distributions, normal distribution, beta estimation, covariance, correlation, and sampling with simulations.
 
 ---
 
